@@ -1,5 +1,9 @@
 __author__ = 'rg.kavodkar'
 
+'''
+Not implemented. DO NO USE!.
+'''
+
 
 def sort(list_):
     merge_sort(list_, 0, len(list_) - 1)
